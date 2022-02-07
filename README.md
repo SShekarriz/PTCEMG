@@ -9,7 +9,7 @@ Workflow:
 
 1 Trimming with Trimmomatic\
 
-2 Building donor libraries; 
+2 Building patient libraries; 
 - A) interleave F and R reads into inter for each pt
 - B) Concatanate the two sample for each pt; using mapfile
 
